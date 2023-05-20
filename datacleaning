@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Understanding Student Food Choices</title>
+</head>
+<body>
+  <h1>Understanding Student Food Choices</h1>
+  <h2>Objective: To clean the dataset and prepare data for analysis using Excel</h2>
+  <h3>About Dataset:</h3>
+  <p>
+    This dataset includes information on food choices, nutrition, preferences, childhood favorites, and other information from college students. It consists of 126 responses. The data is raw and uncleaned, but cleaning is currently in progress. Additional versions of the data will be posted once the cleaning process is complete.
+  </p>
+  <p>
+    Dataset Source: <a href="https://www.kaggle.com/datasets/borapajo/food-choices?resource=download&select=food_coded.csv">https://www.kaggle.com/datasets/borapajo/food-choices?resource=download&select=food_coded.csv</a>
+  </p>
+</body>
+</html>
